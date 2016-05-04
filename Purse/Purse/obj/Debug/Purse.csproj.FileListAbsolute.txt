@@ -1,0 +1,6 @@
+D:\Lab3\Purse\Purse\bin\Debug\Purse.exe.config
+D:\Lab3\Purse\Purse\bin\Debug\Purse.exe
+D:\Lab3\Purse\Purse\bin\Debug\Purse.pdb
+D:\Lab3\Purse\Purse\obj\Debug\Purse.csprojResolveAssemblyReference.cache
+D:\Lab3\Purse\Purse\obj\Debug\Purse.exe
+D:\Lab3\Purse\Purse\obj\Debug\Purse.pdb
