@@ -4,3 +4,21 @@ D:\Lab3\Purse\Purse\bin\Debug\Purse.pdb
 D:\Lab3\Purse\Purse\obj\Debug\Purse.csprojResolveAssemblyReference.cache
 D:\Lab3\Purse\Purse\obj\Debug\Purse.exe
 D:\Lab3\Purse\Purse\obj\Debug\Purse.pdb
+D:\My document\University science\5 курс\wert\Purse\Purse\bin\Debug\Purse.exe.config
+D:\My document\University science\5 курс\wert\Purse\Purse\obj\Debug\Purse.exe
+D:\My document\University science\5 курс\wert\Purse\Purse\obj\Debug\Purse.pdb
+D:\My document\University science\5 курс\wert\Purse\Purse\bin\Debug\Purse.exe
+D:\My document\University science\5 курс\wert\Purse\Purse\bin\Debug\Purse.pdb
+D:\My document\University science\5 курс\wert\Purse\Purse\bin\Debug\Credit.dll
+D:\My document\University science\5 курс\wert\Purse\Purse\bin\Debug\mscorlib.dll
+D:\My document\University science\5 курс\wert\Purse\Purse\bin\Debug\System.Net.Http.dll
+D:\My document\University science\5 курс\wert\Purse\Purse\bin\Debug\Credit.pdb
+D:\My document\University science\5 курс\wert\Purse\Purse\bin\Debug\System.Net.Http.xml
+D:\My document\University science\5 курс\wert\Purse\Purse\bin\Debug\ru\mscorlib.resources.dll
+D:\My document\University science\5 курс\wert\Purse\Purse\bin\Debug\ru\System.Net.Http.resources.dll
+D:\My document\University science\5 курс\wert\Purse\Purse\bin\Debug\normidna.nlp
+D:\My document\University science\5 курс\wert\Purse\Purse\bin\Debug\normnfc.nlp
+D:\My document\University science\5 курс\wert\Purse\Purse\bin\Debug\normnfd.nlp
+D:\My document\University science\5 курс\wert\Purse\Purse\bin\Debug\normnfkc.nlp
+D:\My document\University science\5 курс\wert\Purse\Purse\bin\Debug\normnfkd.nlp
+D:\My document\University science\5 курс\wert\Purse\Purse\obj\Debug\Purse.csprojResolveAssemblyReference.cache
